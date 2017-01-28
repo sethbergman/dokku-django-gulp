@@ -1,5 +1,7 @@
 # dokku-django-gulp
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/dokku-django-gulp.svg)](https://greenkeeper.io/)
+
 This is the repository used for my blog post [Dockerfile deployment for speedy deploys with Dokku].
 
 # How the project is configured
